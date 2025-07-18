@@ -7,4 +7,4 @@ function isPalindrome(num){
         console.log("not palindrome")
     }
 }
-isPalindrome(11);
+isPalindrome(121);
